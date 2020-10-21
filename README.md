@@ -5,7 +5,7 @@ Seeking for learn new technologies and obtain experience on end-to-end developme
 
 I start studying english when I was Eleven(11), I am looking for learning a new language, the German, as a way to connect with the culture of my family and region.
 
-If tou are interested on geting in contect, please send a message on the Linkedin
+If you are interested on geting in contect, please send a message on the Linkedin
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardo-hensel-batista-15308a1a3/)
 
