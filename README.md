@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Eduardo
 
 * I am a computer science studenty, my main objective is to become a back-end developer on Web applications:
-Seeking for learn new technologies and obtain experience on end-to-end development with the objective of knowing how to deal with the new problems and opportunities os the digital era
+Seeking for learn new technologies and obtain experience on end-to-end development with the objective of knowing how to deal with the new problems and opportunities on the digital era
 
 * I start studying english when I was Eleven(11), I am looking for learning a new language, the German, as a way to connect with the culture of my family and region.
 
