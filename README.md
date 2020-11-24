@@ -1,9 +1,18 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Eduardo
 
-* I am a computer science studenty, my main objective is to become a back-end developer on Web applications:
-Seeking for learn new technologies and obtain experience on end-to-end development with the objective of knowing how to deal with the new problems and opportunities on the digital era
+* I am a computer science studenty!
+my main objective is to become a back-end developer on **Web applications/Mobile**:
 
-* I start studying english when I was Eleven(11), I am looking for learning a new language, the German, as a way to connect with the culture of my family and region.
+### Objectives:
+I m seeking for learn new technologies and obtain experience with the objective of knowing how to deal with the new problems and opportunities on the digital era
+
+### Whats I want to Learn Next:
+* React
+* React-native
+* socket.io
+* TypeScript
+* Docker
+* Desine Patterns
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,8 +25,10 @@ Seeking for learn new technologies and obtain experience on end-to-end developme
 <br>
 <br>
 
-If you are interested on geting in contect, please send a message on the Linkedin
+<hr>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardo-hensel-batista-15308a1a3/)
+<p align="center">Please, feel free to send me a message on Linkedin! </p>
+
+[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardo-hensel-batista-15308a1a3/)
 
 ## Thank you!
