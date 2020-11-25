@@ -14,6 +14,8 @@ I m seeking for learn new technologies and obtain experience with the objective 
 * Docker
 * Desine Patterns
 
+* Dart and Flutter???
+
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo443&show_icons=true&theme=dracula" />
