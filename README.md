@@ -7,14 +7,15 @@ my main objective is to become a back-end developer on **Web applications/Mobile
 I m seeking for learn new technologies and obtain experience with the objective of knowing how to deal with the new problems and opportunities on the digital era
 
 ### Whats I want to Learn Next:
-* React
-* React-native
-* socket.io
-* TypeScript
-* Docker
-* Desine Patterns
+- [ ] React
+- [ ] React-native
+- [ ] socket.io
+- [ ] TypeScript
+- [ ] Electron
+- [ ] Docker
+- [ ] Desine Patterns
 
-* Dart and Flutter???
+- [ ] Dart and Flutter??? maybe...
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
